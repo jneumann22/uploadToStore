@@ -1,6 +1,8 @@
 # General
 .DS_Store
 *~
+key.json
+.bundle
 
 # Android Studio
 .idea/
